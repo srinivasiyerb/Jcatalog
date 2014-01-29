@@ -15,7 +15,7 @@
     </managed-property>
     <managed-property>
     	<property-name>productImageDirUri</property-name>
-    	<value>/var/genapp/apps/0db104a9/staxcat/work/webapps/catalog/images/products</value>
+    	<value>request.getContextPath()</value>
     </managed-property>
     <managed-property>
     	<property-name>imageUploadResultPage</property-name>
