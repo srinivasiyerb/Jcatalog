@@ -15,7 +15,7 @@
     </managed-property>
     <managed-property>
     	<property-name>productImageDirUri</property-name>
-    	<value>request.getContextPath()</value>
+    	<value>Apache Tomcat/6.0.35/webapps/catalog/images/products</value>
     </managed-property>
     <managed-property>
     	<property-name>imageUploadResultPage</property-name>
