@@ -17,7 +17,7 @@
   <property name="docs.api.dir" 	value="${docs.dir}/api" />
   <property name="web.dir" 		value="${basedir}/web" />
   <property name="lib.dir"		value="${basedir}/lib" />
-  <property name="dist.dir" 		value="${basedir}/dist" />
+  <property name="dist.dir" 		value="${basedir}/" />
 
   <path id="classpath">
       <fileset dir="${lib.dir}">
