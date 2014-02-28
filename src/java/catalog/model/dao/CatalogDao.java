@@ -5,8 +5,8 @@ package catalog.model.dao;
 
 import java.util.List;
 //
-import catalog.model.businessobject.Product;
-import catalog.model.businessobject.Category;
+import catalog.model.businessobject.Product
+import catalog.model.businessobject.Category
 
 /**
  * Catalog DAO interface.
