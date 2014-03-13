@@ -47,7 +47,7 @@
   </target>
  
   <!-- Executable Targets -->
-  <target name="build" depends="prepare,deploy.copyJars"
+  <target name="build" depends="prepare,deploy.copyJars,pmd,checkstyle"
      description="Compile Java files and copy static files." >
     <javac srcdir="${src.java.dir}" destdir="${build.dir}/${project.name}/WEB-INF/classes">
     	<include name="**/*.java" />
